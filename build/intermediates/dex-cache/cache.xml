@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.twilio.sdk/twilio-java-sdk/5.10.0/73be79a2f62c18619b8a445e72aab59fa39c3617/twilio-java-sdk-5.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73be79a2f62c18619b8a445e72aab59fa39c3617">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/twilio-java-sdk-5.10.0_67a861834affb950fac09b99e07711be654ccee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_5ac416c269fba37d0c39dd67ec3774c058310301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_f921ad88f40c21184578d474913a9546d8a3f150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_996cd1c778adfc66eac1657a86c733d5af1ea73a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.4.0_2356f582735a3a7655cd7b9418840b1cbabd1a5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_5addbc164677f8489661ebbc7e49abee369626fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_137c5cc6bad4d5df70297ae3efc69aa9e59c16ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_fddd4ae0466fa9b11e85e1b0c2bfd7dd59e1d71c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.3/e96286e8ebe4c5523d5621278dc2114116108a0e/jackson-core-asl-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e96286e8ebe4c5523d5621278dc2114116108a0e">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-asl-1.9.3_94f832f4e12017056e0883f1088dff733ba255b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/json-simple-1.1_d63026c1b7dfd1aaaedc8ddbd91dabc7a97c18f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_18214a0946243707ab46b3d0c49ceba4a15504e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.2/ceb72830d95c512b4b300a38f29febc85bdf6e4b/jackson-core-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ceb72830d95c512b4b300a38f29febc85bdf6e4b">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.4.2_c88c9d5aef22a35e73aa405d57f71e769ed1756b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_240f3b49f65ed494a872cdc9b17d6b0b41b4d888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.6/562424e36df3d2327e8e9301a76027fca17d54ea/slf4j-api-1.7.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="562424e36df3d2327e8e9301a76027fca17d54ea">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.6_3ed10f49fedc5e45cf5a08581713f8d0a52c52de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_b781364ab223d2b1abe95022df312f2ba9f3b8a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_f2f37c9b320cb7d610abda0b915b819874625d57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_97e5b2fc03987b7a91fbe96d8eefb20cbfd988a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_56670a68b5e7b45ff046b3e6dd1bdefc3868c6bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_00af7f78e80c44c4feafa33d0e1e007276627b8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_19734c513567f49f625ce8629febb5752106f97b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_634cbb948123323db50f3cb293b353d1afdbff6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_ad84d312cbff2ca2f4b98a0c19d928141836b3ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_5fe466290c42584f607d7b106be1263767d06892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_ab0fa0ca95b0cdb6d3569bf6e875a58af766b15a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.twilio/client-android/1.2.18/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="db098e513cf95c9b82b01705ab59591efb444332">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twilio-client-android-1.2.18_85d50b8402d2c3f151e6cf667e2092d0e9cbff16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.5/472f0f5f8dba5d1962cb9d7739feed739a31c30d/httpcore-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="472f0f5f8dba5d1962cb9d7739feed739a31c30d">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.2.5_4e791b3c9a3a2ea82e0dd4ad7d46745191e29bfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_8656a19f6ebd69312fddeddac3779d41baec36df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e3a49eaa09375e969cf898bbb6f6f3fbeefddfa0">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b119b7bf20ce81873a17f7a80b4835754a1c4d1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_06c3669b7876ab938a385bd04a79d6ca964b9b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_a33280feb1c69f9f4944bcf10f05523ea2e87ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_495cca9c9488461d66ccbb224fa1e62eba03f640/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt/0.4/61ce246d937a0fd3acf06d3bef5fc9e3933ae812/jjwt-0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="61ce246d937a0fd3acf06d3bef5fc9e3933ae812">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jjwt-0.4_4efaf24143284ce5d9b13d29f6db13b46aec31a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_64750c6eb1bf5e542269b327ab754beff6c6a31b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_834bf3cc6c30a58eec1235736d072c1fbfa79612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_bed99b08229c9d1a79e2e9f60459c2f40265f589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/pl.bclogic/pulsator4droid/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4d0b572d823b1d937206234c5b0e9d16ff413fb7">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.bclogic-pulsator4droid-1.0.3_8702164fbd075ab09efa67f1501862cede367d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_c09600eae0375a536aa7eddd1a99c3e334a206d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.twilio/client-android/1.2.18/jars/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43277855ca5264751a403ababa35a49aae1867ca">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.apache.http.legacy_f95b6f924021848861ec53cbcddfaa21c677e355/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2077d7df72a3bd79570646c4524cee598d1344a2">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta2_562f7fa285203fd216f7540932a444300ca43168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_9b61620979c30da8d1e01fd5329af736dc6d45bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_d82fe2347d8432cf85a377a98b2b20377588ed48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_543f2b224793c527f2d33076f96e63410b9e09cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta2/constraint-layout-solver-1.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5436cefb7e5c057655ed13ad54b56e1931f47fe">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta2_375e60615d585fd5a4baf33a92c07bc26e2a5e8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_b1e895a5c8c2bae1dbc58c290632dadab5ac0b99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.3/dd1373fe304f64ae3daa50e67b9b9cf6995ec1a0/jackson-mapper-asl-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1373fe304f64ae3daa50e67b9b9cf6995ec1a0">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-mapper-asl-1.9.3_6f0f192e2da0bb8d3eba5c9777ddb4b33a3eb9e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.2/8e31266a272ad25ac4c089734d93e8d811652c1f/jackson-databind-2.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e31266a272ad25ac4c089734d93e8d811652c1f">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.4.2_ad0c30fadac84c066a57a5720dcd4135650b5271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.0_6cff3f8c805ba82e30f6898ad37178d71b75f4fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_2ebadbbc8d0246544e0dd48b932b834de612a9a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_cbf9d9933b4615601e34b2f4d2e10cdcac78ccb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962de89a4013bc0a917bfe60e42abebde358808e">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b3dd77663f457fe4b3735644de2b90985b56ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8f85a0c7de1ec777100c3994fb66fe1c18b715f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_e89623cde3b3e3021ce87f439d8a055a43f3700b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_8eeb099aa9146f7a6514fd69ad1d94715bd45f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenny/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/Users/Kenny/Desktop/Repositories/fp_team_17/Echo/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.0_ac71ea61785e753b47b73a4740fbc914a64b9bf5/classes.dex" />
+    </item>
+
+</items>
